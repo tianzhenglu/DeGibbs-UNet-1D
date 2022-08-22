@@ -2,6 +2,7 @@
 data/
 __pycache__/
 checkpoints/
+model/
 *.pth
 *.jpg
 venv/
